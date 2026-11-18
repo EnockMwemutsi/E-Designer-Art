@@ -41,10 +41,21 @@ A university final-year project focused on improving road safety through lane-sh
 University of Dodoma (UDOM), Tanzania  
 2022–2026
 
-## 📜 Certifications & Training
+## 📜 Certificates & Professional Training
 
-- Cisco Networking Academy — CCNA 1 and CCNA 2
-- Huawei ICT Academy — Datacom
+### Networking and Telecommunications
+
+- **CCNA 1** — Cisco Networking Academy
+- **CCNA 2** — Cisco Networking Academy
+- **Network Addressing and Basic Troubleshooting** — Cisco Networking Academy
+- **Datacom Training** — Huawei ICT Academy
+- **Complete Cisco CCNA 200-301 Course** — Udemy
+
+### Digital and Productivity Skills
+
+- **Introduction to MS Excel** — Simplilearn SkillUp (2026)
+
+*These entries represent course training and course-completion credentials; they should not be interpreted as the Cisco CCNA certification exam credential.*
 
 ## 🌱 Currently Learning
 
