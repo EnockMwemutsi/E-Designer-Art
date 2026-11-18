@@ -18,8 +18,7 @@ I enjoy learning new technologies, building projects, and strengthening my techn
 
 - **Networking:** Networking fundamentals, TCP/IP, routing and switching
 - **Networking tools:** Cisco Packet Tracer, Wireshark
-- **Programming:** Python, JavaScript, PHP
-- **Platforms:** Linux, Windows
+- **Programming:** JavaScript, PHP
 - **Hardware & IoT:** Raspberry Pi, ESP32, sensors, and embedded systems
 
 *I continue to develop these skills through practical exercises and independent learning.*
@@ -61,7 +60,6 @@ University of Dodoma (UDOM), Tanzania
 
 - Advanced networking concepts and practical routing and switching
 - Network troubleshooting using Wireshark and Packet Tracer
-- Linux and network administration
 - Python for networking and automation
 
 ## 🤝 Connect With Me
