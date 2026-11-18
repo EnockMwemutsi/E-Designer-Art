@@ -17,6 +17,7 @@ I enjoy learning new technologies, building projects, and strengthening my techn
 ## 🛠️ Technical Skills
 
 - **Networking:** Networking fundamentals, TCP/IP, routing and switching
+- **Microsoft Excel:** Basic data entry, spreadsheet formatting, and simple formulas
 
 *I continue to develop these skills through practical exercises and independent learning.*
 
