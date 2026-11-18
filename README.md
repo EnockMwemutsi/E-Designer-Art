@@ -14,12 +14,9 @@ I enjoy learning new technologies, building projects, and strengthening my techn
 - IT Infrastructure and Technical Support
 - Network Security
 
-## 🛠️ Technical Skills & Tools
+## 🛠️ Technical Skills
 
 - **Networking:** Networking fundamentals, TCP/IP, routing and switching
-- **Networking tools:** Cisco Packet Tracer, Wireshark
-- **Programming:** JavaScript, PHP
-- **Hardware & IoT:** Raspberry Pi, ESP32, sensors, and embedded systems
 
 *I continue to develop these skills through practical exercises and independent learning.*
 
